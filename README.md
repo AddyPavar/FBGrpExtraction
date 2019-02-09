@@ -24,3 +24,7 @@ Replace fb_group_id with ID Copied before.
 ```
 python fbgrp.py mygroup
 ```
+
+
+
+Note: Please install requirements.txt first.
